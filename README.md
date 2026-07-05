@@ -31,6 +31,6 @@ Machine learning research on extreme class imbalance using XGBoost and threshold
 ### EEG Seizure Prediction
 Classification of rare seizure events using feature engineering and imbalance handling techniques.
 
-### Skills
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,fastapi,docker,aws,git,github,vercel)](https://skillicons.dev)
 
