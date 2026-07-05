@@ -31,8 +31,5 @@ Machine learning research on extreme class imbalance using XGBoost and threshold
 ### EEG Seizure Prediction
 Classification of rare seizure events using feature engineering and imbalance handling techniques.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KhubaibKhan-kyb)](https://git.io/streak-stats)
-
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,fastapi,docker,aws,git,github,vercel)](https://skillicons.dev)
 
-![Khubaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhubaibKhan-Kyb&show_icons=true)
