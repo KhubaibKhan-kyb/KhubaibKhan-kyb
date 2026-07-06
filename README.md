@@ -17,10 +17,10 @@ I'm a Computer Science graduate focused on building intelligent systems using Ma
 ## Featured Projects
 
 ### Multi-Agent Research System
-Production-grade multi-agent application that autonomously researches topics through specialized Search, Read, Write, and Critique agents.
+Deployed production-grade multi-agent application that autonomously researches topics through specialized Search, Read, Write, and Critique agents.
 
 ### Retrieval-Augmented Document Q&A System
-Production-style RAG application with semantic retrieval and source-grounded responses.
+RAG application with semantic retrieval and source-grounded responses.
 
 ### Conversational AI Digital Twin
 Document-aware chatbot deployed on Hugging Face Spaces.
