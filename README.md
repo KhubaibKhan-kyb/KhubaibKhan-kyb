@@ -4,7 +4,7 @@
 
 Machine Learning, Agentic AI & Generative AI Developer
 
-I'm a Computer Science graduate focused on building intelligent systems using Machine Learning, Multi-Agent Architectures, Retrieval-Augmented Generation (RAG), and Large Language Models.
+I'm the founder of Digicrunch LLC (AI/software company) and a Computer Science graduate focused on building intelligent systems using Machine Learning, Multi-Agent Architectures, Retrieval-Augmented Generation (RAG), and Large Language Models.
 
 ## Current Interests
 
