@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=29F707&width=435&lines=Machine+Learning+Developer;Building+Multi-Agent+Systems;Developing+RAG+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3500&pause=500&color=F77436&width=435&lines=Generative+%26+Agentic+Dev+;Proficient+in+AI+Tools;Founder+DigiCrunch+LLC+)](https://git.io/typing-svg)
 
 # Hi, I'm Khubaib Khan 👋
 
