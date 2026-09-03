@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=29F707&width=435&lines=Machine+Learning+Developer;Building+Multi-Agent+Systems;Developing+RAG+Applications)](https://git.io/typing-svg)
 
-# Hi, I'm Muhammad Khubaib Khan 👋
+# Hi, I'm Khubaib Khan 👋
 
-Machine Learning, Agentic AI & Generative AI Developer
+Agentic AI & Generative AI Developer
 
 I'm the founder of Digicrunch LLC (AI/software company) and a Computer Science graduate focused on building intelligent systems using Machine Learning, Multi-Agent Architectures, Retrieval-Augmented Generation (RAG), and Large Language Models.
 
